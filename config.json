@@ -1,9 +1,10 @@
 {
-  "token": "your bot token",
-  "mailGuildId": "id of the modmail inbox guild",
-  "mainGuildId": "id of the main server where users will DM the bot",
+  "token": "MzU0MzkyNDc1OTE1NTE3OTUz.DI9tBw.ByFfucD6ac8R6CmpHsBzVM6qTIE
+",
+  "mailGuildId": "ModMail#6053",
+  "mainGuildId": "350371836812591107",
 
-  "prefix": "!",
+  "prefix": ";",
   "status": "Message me for help!",
   "responseMessage": "Thank you for your message! Our mod team will reply to you here as soon as possible.",
   "alwaysReply": false,
